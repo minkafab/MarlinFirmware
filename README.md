@@ -1,4 +1,4 @@
-#VISIT MARLIN ON: https://github.com/MarlinFirmware/Marlin
+# VISIT MARLIN ON: https://github.com/MarlinFirmware/Marlin
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
