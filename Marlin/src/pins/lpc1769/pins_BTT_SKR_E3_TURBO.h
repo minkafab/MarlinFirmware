@@ -41,8 +41,8 @@
 //
 #define X_DIAG_PIN                         P1_29  // X-STOP
 #define Y_DIAG_PIN                         P1_28  // Y-STOP
-#define Z_DIAG_PIN                         P1_27  // Z-STOP
-#define E0_DIAG_PIN                        P1_26  // E0DET
+#define Z_DIAG_PIN                         P1_26  // Z-STOP
+#define E0_DIAG_PIN                        P1_27  // E0DET
 #define E1_DIAG_PIN                        P1_25  // E1DET
 
 //
